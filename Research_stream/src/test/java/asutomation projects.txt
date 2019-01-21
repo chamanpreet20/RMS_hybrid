@@ -1,0 +1,3 @@
+Pharma project- C:\Users\chaman.preet\Documents\C_data\Pharma_gitimport
+
+Git path- C:\Users\chaman.preet\git\Pharma_test\pharma.auto

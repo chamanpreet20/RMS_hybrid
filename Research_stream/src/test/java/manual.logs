@@ -1,0 +1,20 @@
+03/07/2018 13:33:34 devpinoyLogger 
+ Test step is -> executionclass-[Login to application, login to Application description, N, Firefox]
+03/07/2018 13:33:34 devpinoyLogger Skipped
+03/07/2018 13:33:34 devpinoyLogger 
+ Test step is -> executionclass-[Open New Request page, New Request page is getting open, N, Firefox]
+03/07/2018 13:33:34 devpinoyLogger Skipped
+03/07/2018 13:33:46 devpinoyLogger 
+
+Started Executing testcase----> Create new Request
+
+03/07/2018 13:33:56 devpinoyLogger 
+ Test step is -> executionclass-[Create new Request, Fill new request form and submit, Y, Firefox]
+03/07/2018 13:33:56 devpinoyLogger  *****FAIL - Unable to locate element: //.[contains(text(),'Shashank')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'EVS01CPB424', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16392, moz:profile: C:\Users\chaman.preet\AppDa..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: c7c8618e-cf33-41d3-bd9c-855b843b5bf9
+*** Element info: {Using=xpath, value=//.[contains(text(),'Shashank')]}
